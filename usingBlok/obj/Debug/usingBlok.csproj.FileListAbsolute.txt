@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\usingBlok\bin\Debug\usingBlok.exe.config
+C:\Users\ucenik\source\repos\usingBlok\bin\Debug\usingBlok.exe
+C:\Users\ucenik\source\repos\usingBlok\bin\Debug\usingBlok.pdb
+C:\Users\ucenik\source\repos\usingBlok\obj\Debug\usingBlok.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\usingBlok\obj\Debug\usingBlok.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\usingBlok\obj\Debug\usingBlok.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\usingBlok\obj\Debug\usingBlok.exe
+C:\Users\ucenik\source\repos\usingBlok\obj\Debug\usingBlok.pdb
